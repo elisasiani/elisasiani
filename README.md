@@ -1,16 +1,40 @@
 <h1>👋 Olá, Eu sou a Ana Siani</h1>
 
-<!--
-**elisasiani/elisasiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Apaixonada por **Dados e Tecnologia **, sempre buscando transformar informações e agregar valor.  
+🚀 Estudante da área de **Análise de Dados**, com foco em aplicar **projetos práticos** que gerem impacto real, utilizando de insights e o conhecimento análitico para fazer a diferença.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Sobre mim
+- 🎯 Atualmente aprofundando conhecimentos em **Python, SQL, Power BI, Estatística, Storytelling e Machine Learning**  
+- 💼 Buscando oportunidades como **Analista de Dados Jr**  
+- 🌱 Acredito que todo conhecimento é válido, e cada um deles pode impactar na nossa evolução de forma diferente.
+---
+## 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
+  <div style="display: inline_block"><br>
+</div>
+  
+---
+
+## 📈 Estatísticas do GitHub
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisasiani&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisasiani&layout=compact&theme=cobalt)
+
+---
+<div align="center">
+  <img src="https://github.com/elisasiani/elisasiani/blob/main/download20250804190113.png?raw=true" width="250">
+</div>
+
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-elisa-siani-201542259/ )
+[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisasiani@hotmail.com)
+
+---
+<div aling=center>
+<img src="https://raw.githubusercontent.com/elisasiani/elisasiani/output/snake.svg" alt="Snake animation" />
+<div/>
