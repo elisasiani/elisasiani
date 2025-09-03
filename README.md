@@ -1,6 +1,6 @@
 <h1>👋 Olá, Eu sou a Ana Siani</h1>
 
-💡 Apaixonada por **Dados e Tecnologia **, sempre buscando transformar informações e agregar valor.  
+💡 Apaixonada por **Dados e Tecnologia**, sempre buscando transformar informações e agregar valor.  
 🚀 Estudante da área de **Análise de Dados**, com foco em aplicar **projetos práticos** que gerem impacto real, utilizando de insights e o conhecimento análitico para fazer a diferença.
 
 
