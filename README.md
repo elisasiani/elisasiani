@@ -34,6 +34,6 @@
 [![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisasiani@hotmail.com)
 
 ---
-<div aling=center>
-<img src="https://raw.githubusercontent.com/elisasiani/elisasiani/output/snake.svg" alt="Snake animation" />
-<div/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elisasiani/elisasiani/output/snake.svg" alt="Snake animation" />
+</p>
