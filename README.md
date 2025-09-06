@@ -24,16 +24,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisasiani&layout=compact&theme=cobalt)
 
 ---
-<div align="center">
-  <img src="https://github.com/elisasiani/elisasiani/blob/main/download20250804190113.png?raw=true" width="250">
-</div>
-
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-elisa-siani-201542259/ )
 [![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisasiani@hotmail.com)
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elisasiani/elisasiani/output/snake.svg" alt="Snake animation" />
-</p>
