@@ -15,7 +15,7 @@
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
   <img align="center" alt="Databricks" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hCy-Ey_FsARYnWnat6STTr2ILQHIHQdAbw&s">
-  <img align="center" alt="SAP" height="40" width="40" src="https://p7.hiclipart.com/preview/79/195/771/sap-se-logo-sap-erp-sap-s-4hana-sap-bpc-business.jpg">
+  <img align="center" alt="SAP" height="40" width="40" src="https://logospng.org/wp-content/uploads/sap.png">
   <div style="display: inline_block"><br>
 </div>
   
