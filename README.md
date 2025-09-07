@@ -14,6 +14,7 @@
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/databricks-original.svg">
   <div style="display: inline_block"><br>
 </div>
   
